@@ -3,7 +3,9 @@
  */
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.yourdomain.tld`,
+    title: "Dev Blog",
+    description: "Gatsbyで作成したブログサイトです。",
+    author: "Engineer X"
   },
   plugins: [],
 }
